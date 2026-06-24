@@ -1,0 +1,9 @@
+#include "martini_v3.0.0.itp"
+#include "topol.itp"
+
+[ system ]
+Title of the system
+
+[ molecules ]
+PMMA 100
+PS    100

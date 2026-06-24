@@ -1,0 +1,9 @@
+#include "topol.itp"
+
+[ system ]
+Title of the system
+
+[ molecules ]
+PMMA 100
+PVDF 100
+
